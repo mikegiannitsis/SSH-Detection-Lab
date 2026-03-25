@@ -48,4 +48,3 @@ I am able to review the alerts and raw log file for suspicious SSH log in attemp
 
 ### Limitations to the project:
 - Small example of an “Enterprise” network.
-- No firewall installed. Can expand by including a firewall
