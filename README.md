@@ -6,7 +6,7 @@ A simulated enterprise environment built to emulate a multi-vector attack combin
 | Tool | Purpose |
 |------|---------|
 | Wazuh SIEM | Security monitoring, alert generation, and log analysis |
-| Kali Linux | Adversary simulation — brute force and phishing |
+| Kali Linux | Adversary simulation, brute force and phishing |
 | Mailhog | Phishing email delivery simulation |
 | VMware | Isolated virtualized enterprise network |
 
